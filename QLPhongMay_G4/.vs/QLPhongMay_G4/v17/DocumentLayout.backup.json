@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhNet\\QLPhongMay_G4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|d:\\laptrinhnet\\qlphongmay_g4\\qlphongmay_g4\\loginportal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\loginportal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\loginportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\loginportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\loginportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\loginportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\editroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\editroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\editroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\editroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\controllers\\loadrequestroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\controllers\\loadrequestroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\itroommanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\itroommanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\linkdatabase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\linkdatabase\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab1\\itrm_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab2\\room_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab2\\room_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\itroommanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\itroommanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\controllers\\commonformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\controllers\\commonformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab2\\room_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab2\\room_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab3\\device_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab3\\device_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\controllers\\loaduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\controllers\\loaduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab3\\device_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab3\\device_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\controllers\\loaddevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\controllers\\loaddevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\controllers\\loadroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\controllers\\loadroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\lib\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\lib\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\lib\\reportextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\lib\\reportextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\emm_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\emm_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\modal\\editminimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\modal\\editminimodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|D:\\LapTrinhNet\\QLPhongMay_G4\\qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFA047-5065-4C4E-BA8C-081818A4A283}|QLPhongMay_G4\\QLPhongMay_G4.csproj|solutionrelative:qlphongmay_g4\\uc_tabcontrol\\bigtab4\\user_tab3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginPortal.Designer.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.Designer.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\loginPortal.Designer.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.Designer.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\loginPortal.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwH4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:50:34.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITRM_tab2.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:38:07.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITRM_tab2.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:38:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editRoomRequest.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAA4wCoBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:27:21.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "database.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\linkDatabase\\database.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\linkDatabase\\database.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\linkDatabase\\database.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\linkDatabase\\database.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:56:42.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "editRoomRequest.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\editRoomRequest.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editRoomRequest.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\editRoomRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:27:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginPortal.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\loginPortal.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\loginPortal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:33:18.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginPortal.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\loginPortal.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\loginPortal.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\loginPortal.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:23:02.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USER_tab2.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:33:05.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "USER_tab2.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab2.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:33:07.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loadRequestRoom.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadRequestRoom.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\controllers\\loadRequestRoom.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadRequestRoom.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\controllers\\loadRequestRoom.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAnwHwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:20:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "commonFormat.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\commonFormat.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\controllers\\commonFormat.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\commonFormat.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\controllers\\commonFormat.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:32:58.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITRM_tab1.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAD4v5cAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:14:02.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "itRoomManagement.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\itRoomManagement.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\itRoomManagement.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\itRoomManagement.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\itRoomManagement.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAMwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:59:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "itRoomManagement.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\itRoomManagement.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\itRoomManagement.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\itRoomManagement.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\itRoomManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:47:15.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ROOM_tab1.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAlwGEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:15:13.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ROOM_tab1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab2\\ROOM_tab1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:15:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EMM_DEVICE.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_DEVICE.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_DEVICE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:07:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITRM_tab1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab1\\ITRM_tab1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:13:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DEVICE_tab1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:26:51.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DEVICE_tab1.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab3\\DEVICE_tab1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:26:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "loadUser.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadUser.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\controllers\\loadUser.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadUser.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\controllers\\loadUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:34:59.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "loadDevice.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadDevice.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\controllers\\loadDevice.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadDevice.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\controllers\\loadDevice.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwCUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:08:01.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "loadRoom.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadRoom.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\controllers\\loadRoom.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\controllers\\loadRoom.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\controllers\\loadRoom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:03:16.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EMM_ROOM.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ROOM.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_ROOM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:07:33.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EMM_ACCOUNT.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:07:04.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportExtensionMethod.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\lib\\ReportExtensionMethod.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\lib\\ReportExtensionMethod.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\lib\\ReportExtensionMethod.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\lib\\ReportExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:15:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\lib\\EventManager.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\lib\\EventManager.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\lib\\EventManager.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\lib\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:15:32.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EMM_ROOM.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_ROOM.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAA7wI4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:10:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EMM_DEVICE.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_DEVICE.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:28:29.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EMM_ACCOUNT.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\EMM_ACCOUNT.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswJ8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:28:54.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "USER_tab1.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:17:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "editMiniModal.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editMiniModal.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\modal\\editMiniModal.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\modal\\editMiniModal.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\modal\\editMiniModal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:33:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "USER_tab3.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs [Design]",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:27:13.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "USER_tab1.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:17:44.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "USER_tab3.cs",
+              "DocumentMoniker": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "RelativeDocumentMoniker": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "ToolTip": "D:\\LapTrinhNet\\QLPhongMay_G4\\QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "RelativeToolTip": "QLPhongMay_G4\\UC_TabControl\\bigTab4\\USER_tab3.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:27:14.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

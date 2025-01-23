@@ -1,4 +1,28 @@
-Để đăng nhập vào hệ thống :
+Các bước setup trước khi sử dụng
+1. Dowload tất cả các file về
+2. Mở SQL Server ManagementStudio
+2.1. Đăng nhập vào máy chủ của máy (Copy tên của máy chủ)
+  2.2. Chuột phải vào folder "Databases" trong máy chủ vừa đăng nhập
+  2.3 Chọn "Restore Database..."
+  2.4 Phần Source chọn "Device" > chọn file QLTB vừa tải về và nhấn OK
+3. Mở Visual Studio 2022 (Tuỳ thuộc vào phiên bản máy của bạn, khuyến khích nên bản mới nhất để không xãy ra lỗi không mong muốn)
+  3.1 Tại phần Menu phía trên chọn "View" > "Orther Windows" > "Data Sources"
+  3.2 Tại tab Data Sources chọn "biểu tượng dấu cộng" để thêm CSDL
+  3.3 Cửa sổ mới hiện ra Chọn "Database" next "Dataset" next "New Connection"
+  3.4 Cửa sổ mới hiện ra ở Dán đường dẫn mà đã copy (ở bước 2.1) "Server Name"
+  3.4 Phần Authentication chọn "SQL Server Authentication"
+  3.5 Bạn nhập thông tin tìa khoản của máy chủ của bạn (mà bạn đã setup trước). Chọn vào checkbox "Trust Server Certificate" (bắt buộc) và "Save my password" (nếu muốn)
+  3.6 Tại phần "Select or enter a database name" chọn đúng tên CSDL mà muốn kết nối đến
+  3.7 Có thể "Test Connection" để kiểm tra kết nối và OK
+  3.8 Trở về cửa sổ cũ chọn "NO..." (Nếu không có làm lại bước 3.3 đến phần chọn CSDL chọn lại tên CSDL mà vừa được thêm, lưu ý không thêm New Connection)
+  3.9 Chọn "Show the connection string that you will save in the application" và copy đường dẫn này. Next tiếp 2 lần chọn checkbox "Tables" và Finish
+4. Mở cửa sổ "Solution Explorer" (khi này bạn sẽ thấy một File mới vừa được tạo "tên database".xsd là thành công kết nối)
+  4.1. Mở folder có tên "linkDatabase" chọn vào file "database.cs" (Lưu ý xoá file .xsd cũ trong folder này)
+  4.2. Tại dòng 14 bạn thay đổi đường dẫn thành đường dẫn mà vừa copy khi nãy (ở bước 3.9)
+Cấu trúc: Data Source=<server name>;Initial Catalog=<database name>;User ID=<id>;Password=<pass>
+***Lưu ý kiểm tra trạng thái của kết nối máy chủ CSDL tại cửa sổ "Server Explorer" nếu thấy "dấu x" thì Refresh lại trên góc.
+
+Để đăng nhập vào hệ thống:
 Tài khoản role admin: 222839
 Password: admin
 * Trong giao diện chính, click 2 lần vào chức vụ trên góc trái giao diện để đăng xuất
